@@ -187,7 +187,7 @@ session_start();
       </div>
       <button class="btn btn-success w-100 py-2" type="submit">Ingresar</button>
       <hr>
-      <button class="btn btn-primary w-100 py-2" type="button">Registrarse</button>
+      <button class="btn btn-primary w-100 py-2" type="button"><a href="register.php" style="text-decoration: none; color: white;">Registrarse</a></button>
       <p class="mt-5 mb-3 text-body-secondary">&copy; 2024</p>
     </form>
   </main>
